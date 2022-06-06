@@ -331,7 +331,7 @@ void SPublisherWindow::Construct(const FArguments& InArgs)
 								SNew(STextBlock)
 								.Font(FEditorStyle::Get().GetFontStyle("FontAwesome.12"))
 								.TextStyle(FEditorStyle::Get(), "NormalText.Important")
-								.Text(FEditorFontGlyphs::Camera)
+								.Text(FEditorFontGlyphs::Video_Camera)
 							]
 
 							+ SHorizontalBox::Slot()
@@ -359,7 +359,7 @@ void SPublisherWindow::Construct(const FArguments& InArgs)
 								SNew(STextBlock)
 								.Font(FEditorStyle::Get().GetFontStyle("FontAwesome.12"))
 								.TextStyle(FEditorStyle::Get(), "NormalText.Important")
-								.Text(FEditorFontGlyphs::File_Image_O)
+								.Text(FEditorFontGlyphs::File)
 
 							]
 							+ SHorizontalBox::Slot()

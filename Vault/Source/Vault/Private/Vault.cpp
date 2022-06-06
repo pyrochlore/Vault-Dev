@@ -104,7 +104,7 @@ void FVaultModule::ShutdownModule()
 void FVaultModule::SpawnOperationsTab()
 {
 	TSharedRef<FGlobalTabmanager> TabManager = FGlobalTabmanager::Get();
-	TabManager->InvokeTab(VaultTabName);
+	TabManager->TryInvokeTab(VaultTabName);
 }
 
 FVaultModule& FVaultModule::Get()

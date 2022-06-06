@@ -1,6 +1,9 @@
 # Vault Project
 
-[![DiscordLink](https://img.shields.io/discord/376875675505655808.svg?logo=discord)](https://discord.gg/RRYwhb) ![UnrealVersion](https://img.shields.io/badge/Unreal%20Engine-4.25.4-brightgreen) ![PluginVersion)](https://img.shields.io/badge/Version-v0.3-brightgreen.svg)
+
+![UnrealVersion](https://img.shields.io/badge/Unreal%20Engine-5.0.2-brightgreen) ![PluginVersion)](https://img.shields.io/badge/Version-v0.4.0-brightgreen.svg)
+
+Forked from [https://github.com/Unreal-Vault/Vault-Dev](https://github.com/Unreal-Vault/Vault-Dev). Customized by [pyrochlore](https://github.com/pyrochlore).
 
 Welcome to the Vault. An Unreal Engine 4 asset library to make sharing and reusing assets easy. 
 
